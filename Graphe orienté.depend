@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715387909 source:d:\graphe orienté\main.c
+	<stdio.h>
+	"Graphe.h"
+
+1715387213 d:\graphe orienté\graphe.h
+
+1715387777 source:d:\graphe orienté\graphe.c
+	<stdlib.h>
+	<stdio.h>
+	"Graphe.h"
+
